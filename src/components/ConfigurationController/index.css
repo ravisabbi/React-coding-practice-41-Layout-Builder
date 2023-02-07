@@ -1,0 +1,38 @@
+.layout-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+.configuration-controller {
+  background-color: #475569;
+  padding-left: 30px;
+  padding: 10px;
+}
+
+.layout-items-list {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 0px;
+}
+.layout-item {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.layout-text {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 18px;
+  margin: 0px;
+}
+.checkbox {
+  height: 15px;
+  width: 15px;
+  margin: 0px;
+  margin-right: 10px;
+}

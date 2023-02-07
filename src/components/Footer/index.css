@@ -1,0 +1,12 @@
+.footer-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cbd5e1;
+}
+
+.footer-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #475569;
+}
